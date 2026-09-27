@@ -12,10 +12,10 @@ No installation or named model is required. Execution depends on the assistant's
 
 ## Source
 
-The Marketer file is the maintained complete edition: link edition 1.4.4, method version 1.3.3. It includes 30 complete source sections. Brand Identity Director now requires fresh contemporary advertising and graphic-design research and an inspected, annotated visual reference board before selecting an open identity direction.
+The Marketer file is unchanged from the maintained complete edition: link edition 1.4.2, method version 1.3.2. It includes 29 complete source sections.
 
 - Original file: `MARKETER.md`
-- Size: 378,024 bytes
-- SHA-256: `17c4b1886fc3d70ff4ba114fb6a4a242c88ce63670911e9daf2a54e139f4314e`
+- Size: 366,210 bytes
+- SHA-256: `cca69a275231db2c69355070fad9f270b3d7dddc4f7c436872aa3e7ce945e556`
 
-This repository retains the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.
+This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.
