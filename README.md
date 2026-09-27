@@ -4,7 +4,9 @@ A public library of reusable marketing instructions.
 
 ## Use the skill
 
-Open [Marketer — complete instructions](MARKETER.md) and provide your brand, product or task to an AI assistant that can read the full document. All required method sources are included in that single file; its internal links point to sections of the same document.
+Open [Marketer — complete instructions](https://raw.githubusercontent.com/rpstr9/rpstr9-marketing-library/main/MARKETER.md) and provide your brand, product or task to an AI assistant that can read the full document. All required method sources are included in that single file; its internal links point to sections of the same document.
+
+Use the full-text link above for AI reading. The [GitHub file page](MARKETER.md) is also available for human browsing.
 
 No installation or named model is required. Execution depends on the assistant's available tools and its ability to read the required source text completely.
 
