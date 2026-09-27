@@ -1,6 +1,6 @@
 # Marketer — RPSTR9
 
-Link edition 1.4.6. Vocabulary profile: `mainstream`. Method version: 1.3.5.
+Link edition 1.4.7. Vocabulary profile: `mainstream`. Method version: 1.3.6.
 
 ## Start the user's task
 
@@ -2061,7 +2061,7 @@ These contracts carry decisions between skills. They describe required informati
 
 ### Common record
 
-Record artifact type, revision, method version (this set: 1.3.5), subject/product, market, audience, objective, scope, creation/review date, vocabulary profile, producing skill, input artifact revisions, sources, material assumptions and status. Status distinguishes a provisional proposal from evidence-supported decisions, execution and observed results. Use brief human-readable identifiers; keep the actual content with the record. Unknown fields remain unknown. A profile change leaves the substantive revision intact.
+Record artifact type, revision, method version (this set: 1.3.6), subject/product, market, audience, objective, scope, creation/review date, vocabulary profile, producing skill, input artifact revisions, sources, material assumptions and status. Status distinguishes a provisional proposal from evidence-supported decisions, execution and observed results. Use brief human-readable identifiers; keep the actual content with the record. Unknown fields remain unknown. A profile change leaves the substantive revision intact.
 
 | Artifact | Producer | Minimum substantive content |
 |---|---|---|
@@ -2372,6 +2372,8 @@ Use the full reference to extract meaning and visual imperatives, derive task-sp
 
 For a fresh or open identity, develop creative direction into concrete art-direction briefs and render comparable visual prototypes before final territory selection. Judge the actual compositions and their intended perceptual or emotional effect, separately from technical correctness, then make targeted corrections that preserve each draft’s organizing idea and expressive strength. Assign imagery, typography and functional information their own task-derived jobs; they need not each explain the entire strategy. Follow the reference’s scope exceptions for locked directions, local revisions and unavailable rendering. Written territory reasoning alone is not evidence that a visual direction works.
 
+Begin reference research with the target’s shared need, research the relevant consumer circumstances and media/content consumption, then derive supported taste hypotheses and inspect strong current design from those cultural contexts. Keep demographic extrapolations and assumed preferences distinct from evidence, and trace the selected references to the audience and benefit using the full method.
+
 Ground important typographic choices in inspected contemporary applications that fit the audience, positioning and cultural context, then compare the actual brand wording and relevant language specimens at their intended hierarchy and scale. Follow the full reference's research and selection discipline; available fonts alone do not establish a creative direction or its quality.
 
 For fresh/open work, deliver exactly three strong, genuinely distinct, comparably developed draft boards unless the user requests another scope or count. Internal exploration can be broader; do not pad the delivered set with weak alternatives. Check each pair before and after rendering: different names, palettes or subjects are insufficient if the mark construction, type voice, composition and visual device still feel like one direction. Apply the reference’s divergence check while preserving the same strategy. Recommend one direction with reasons grounded in strategy, audience and creative strength, explain its material tradeoffs and why the other directions remain viable, then invite the user to select, describe what to keep or change, supply a reference image for further development or a new direction, or request a fresh round of three different ideas, and stop. A recommendation is not selection or permission to finalize. A general request for a finished identity follows these two stages; only explicit delegation to choose and finalize permits autonomous completion. A locked territory, a narrow revision or a request to develop one supplied direction proceeds directly within that scope.
@@ -2449,6 +2451,12 @@ These tensions form the visual strategy: a reasoned search boundary between esta
 
 ### 4. Investigate category codes and break fixation
 
+Start reference research from the established target’s shared need and the situations in which that need matters. Research who is likely to experience it and how their life or work circumstances shape the task: demographic characteristics may be evidence-supported descriptions or explicit extrapolations, but must not replace the need-defined target or be treated as automatic taste preferences. Preserve the actual strategy; do not invent a narrower audience to justify a preferred design.
+
+From those consumer contexts, investigate media and content consumption, cultural interests, brands, places and experiences that the relevant people use, value or aspire to. Distinguish observed audience evidence, reasoned hypotheses and unknowns. Where the evidence suggests different tastes within the same need group, retain those possibilities instead of forcing one aesthetic stereotype. Build this audience-to-culture understanding before selecting a favored style or a collection of admired designs; reuse valid research and extend only the material gaps.
+
+Use those findings to locate and visually inspect strong contemporary design and reference images in the target’s relevant cultural world, extending into adjacent fields where a reasoned connection exists. Evaluate execution quality, audience relevance and usefulness for expressing the brand’s benefit separately: popularity does not prove preference, and beauty or prestige does not prove target fit. For consequential references, retain a concise trace from shared need through consumer context and consumption/taste evidence to the inspected application, the desired response and the visual qualities worth developing. Explain the limits of that inference. This discipline applies to imagery, typography, color, marks and composition, not only to fonts. References inform original interpretations of the benefit; they do not supply copied assets or fixed style categories for the three directions.
+
 Study the visual language of the actual competitive and cultural context. Identify what the category commonly looks like, which signals help people understand or trust the offer, which have become overused and which could be departed from without losing comprehension or credibility. Inspect relevant source material rather than inventing a category pattern from a remembered stereotype.
 
 For each consequential code, distinguish observed use from the inference about its meaning. Determine whether to retain, reinterpret, combine or break it, with a strategic reason. Familiar codes are not automatically forbidden, and unfamiliarity is not automatically distinctive value. If a common signal is useful, explain the role it performs and how the overall system avoids interchangeability. If a code is disrupted, preserve any necessary meaning through another credible part of the system.
@@ -2470,7 +2478,7 @@ Explore as many territories as the brief and uncertainty warrant, then deliver t
 For each territory under active comparison, develop all of the following:
 
 - A task-derived territory name and core idea that communicate the actual visual hypothesis.
-- Why that hypothesis expresses the specific Holotype and visual imperatives.
+- Why that hypothesis expresses the specific Holotype and visual imperatives, including its connection to the audience/cultural findings and the intended experience of the benefit.
 - Its organizing visual principle and the tensions or boundaries it adopts.
 - Typography direction and its contribution to voice, hierarchy and use.
 - Color logic, with the functions that color performs rather than a list of appealing colors.
@@ -3032,4 +3040,4 @@ Recommend continuation, adjustment, further evidence, expansion, redesign, or st
 
 RPSTR9_SECTION_END: marketing-measurement
 
-RPSTR9_DOCUMENT_END: 1.4.6
+RPSTR9_DOCUMENT_END: 1.4.7

@@ -12,10 +12,10 @@ No installation or named model is required. Execution depends on the assistant's
 
 ## Source
 
-The Marketer file is unchanged from the maintained complete edition: link edition 1.4.6, method version 1.3.5. It includes 29 complete source sections.
+The Marketer file is unchanged from the maintained complete edition: link edition 1.4.7, method version 1.3.6. It includes 29 complete source sections.
 
 - Original file: `MARKETER.md`
-- Size: 374,990 bytes
-- SHA-256: `162370594e7a39b1f2762cae37e1963697a37d876d49aebc32583d7faead4d8a`
+- Size: 377,462 bytes
+- SHA-256: `7aa46a1e70d092079c9ec74f0c31f98645643d0842dc5ab43041d0ec7829922f`
 
 This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.
