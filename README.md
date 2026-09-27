@@ -10,12 +10,16 @@ Use the full-text link above for AI reading. The [GitHub file page](MARKETER.md)
 
 No installation or named model is required. Execution depends on the assistant's available tools and its ability to read the required source text completely.
 
+## Concept Review
+
+The complete instructions include a shared Concept Review skill. It researches relevant expert perspectives, challenges candidate concepts, sends revisions back to the originating skill, and rechecks them before concrete idea development. Direct strategy, identity and planning calls use the same review. Unchanged concepts reuse a valid review; no fixed expert panel or additional approval pause is required. Simulated critique remains distinct from actual expert participation and audience evidence.
+
 ## Source
 
-The Marketer file is unchanged from the maintained complete edition: link edition 1.4.7, method version 1.3.6. It includes 29 complete source sections.
+The Marketer file is unchanged from the maintained complete edition: link edition 1.4.8, method version 1.3.7. It includes 30 complete source sections.
 
 - Original file: `MARKETER.md`
-- Size: 377,462 bytes
-- SHA-256: `7aa46a1e70d092079c9ec74f0c31f98645643d0842dc5ab43041d0ec7829922f`
+- Size: 392,459 bytes
+- SHA-256: `b2cb72b16584f94837aa9ad191ab60f8e1537d23d6fb54c48f5c53e6eb0d556b`
 
 This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.

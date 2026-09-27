@@ -1,6 +1,6 @@
 # Marketer — RPSTR9
 
-Link edition 1.4.7. Vocabulary profile: `mainstream`. Method version: 1.3.6.
+Link edition 1.4.8. Vocabulary profile: `mainstream`. Method version: 1.3.7.
 
 ## Start the user's task
 
@@ -10,7 +10,7 @@ Use the `mainstream` vocabulary profile. The two entry documents use the same me
 
 This document contains every required capability and all fourteen restored instruction/Knowledge source texts below. It retains full source text except the explicitly recorded example abstractions and packaging changes required by the user. Historical conversation archives remain separate provenance; they are not bundled as active tasks. Internal links refer to sections of this same document; when a section instructs you to load a skill or reference, read that included section. Local-file or repository-loading guidance in the shared protocol is for other distributions and is not needed for this self-contained edition. Do not search the local filesystem or invent a dependency URL.
 
-Read the full-method source index and its explicit current-user precedence, the complete operating instructions, and every complete source document assigned there to the required capabilities. These full texts govern the method; the shorter capability descriptions are not replacements. Do not condense required source content. Then read the workflow, protocol, contracts and vocabulary, and the capabilities required for the actual request. For strategy and journey, read research, Brand Holotype, Perception Flow and stage rules. For visual identity or a Brand Board, read Brand Identity Director and its complete identity-system reference, inheriting the complete strategy; Flow is not its prerequisite. For a complete brand and marketing system, follow both identity and journey branches from the same strategy revision. For plans, also read Creative Brief and Marketing Planning. For measurement, read Marketing Measurement and only the relevant upstream context. Resolve missing substantive prerequisites using those included methods and reuse valid prior work.
+Read the full-method source index and its explicit current-user precedence, the complete operating instructions, and every complete source document assigned there to the required capabilities. These full texts govern the method; the shorter capability descriptions are not replacements. Do not condense required source content. Then read the workflow, protocol, contracts and vocabulary, and the capabilities required for the actual request. For strategy and journey, read research, Brand Holotype, Perception Flow and stage rules. For visual identity or a Brand Board, read Brand Identity Director and its complete identity-system reference, inheriting the complete strategy; Flow is not its prerequisite. For a complete brand and marketing system, follow both identity and journey branches from the same strategy revision. For new or materially changed concepts, or an explicit concept audit, read Concept Review and apply it between candidate concepts and concrete ideas, reusing a valid unchanged review. For plans, also read Creative Brief and Marketing Planning. For measurement, read Marketing Measurement and only the relevant upstream context. Resolve missing substantive prerequisites using those included methods and reuse valid prior work.
 
 Before using a section, retrieve its complete body through its matching section end marker. A preview, search snippet, summary, heading list or isolated final marker is insufficient. If the tool returns only a portion, retrieve the missing portions where possible. If required content remains inaccessible, say what is missing and request the missing text; do not claim the method was loaded or continue as if unseen instructions had been applied. Do not run through a fixed confirmation ritual when the content is available.
 
@@ -50,6 +50,7 @@ Place the question after the completed deliverable and any required memo. Offeri
 - [protocol](#rpstr9-protocol)
 - [contracts](#rpstr9-contracts)
 - [vocabulary](#rpstr9-vocabulary)
+- [concept-review](#rpstr9-concept-review)
 - [marketing-research](#rpstr9-marketing-research)
 - [brand-holotype](#rpstr9-brand-holotype)
 - [brand-identity-director](#rpstr9-brand-identity-director)
@@ -131,6 +132,10 @@ Source preservation and example changes are auditable in the package's restorati
 ### Provenance of the approved supplements
 
 The supplements above are maintained operational additions, informed by verified primary sources: Otobe's [finite and hidden resources](https://digiday.jp/brands/jackie_chens_chair_otobe/), [objective-setting discipline](https://digiday.jp/brands/smac-otobe/), [vision and project objectives](https://www.ficc.jp/blog/creating-future-vision/), [market creation through changing evaluation criteria](https://digiday.jp/brands/01_making-an-impact-with-purpose-driven-marketing/), [framework improvement](https://agenda-note.com/brands/detail/id=3672), and [shared methods and organizational learning](https://agenda-note.com/brands/detail/id=3757&pno=1). These links document provenance, not additional mandatory runtime dependencies or a claim to have read every article in the author's corpus. Apply the complete included supplemental instructions. Their specific artifact fields, scope rules and table packaging are this skill set's implementation choices, not purported verbatim or official framework definitions.
+
+### Supplemental concept review requirement
+
+For a requested concept audit or a new/materially changed concept-to-idea handoff, read the complete [Concept Review](#rpstr9-concept-review). Apply it before concrete creative development, preserving exploratory sketches and later actual-output critique. This supplements the complete source methods; it neither replaces them nor adds a ninth strategy element. The same review applies to both vocabulary profiles and to direct specialist calls. Reuse unchanged reviewed concepts and preserve the existing task scope and authority.
 
 RPSTR9_SECTION_END: full-method
 
@@ -2005,6 +2010,10 @@ Both entry skills use identical output structure and depth. Do not restore the h
 
 If the user explicitly asks to preserve or move the work, export a self-contained state using the contracts. Otherwise retain sufficient working artifacts in the current task without printing implementation metadata throughout the report. Do not promise automatic memory across chats.
 
+### Shared concept review boundary
+
+Route a requested expert critique or concept audit to the complete [Concept Review](#rpstr9-concept-review). For newly developed or materially changed strategic or creative concepts, require this review between candidate concepts and concrete idea development. The originating specialist revises its own artifact; the downstream specialist receives the reviewed version and its conditions. Reuse a valid review of an unchanged concept and avoid duplicate reviews across branches. A newly created identity or campaign premise is a distinct review subject even when its upstream strategy is already reviewed. Preserve the complete strategy, independent identity/journey branches, requested deliverables and existing three-draft identity endpoint. Do not introduce a new approval pause.
+
 RPSTR9_SECTION_END: workflow
 
 ---
@@ -2129,6 +2138,10 @@ When saving, include all relevant substantive artifacts, current decisions, evid
 
 When identity is part of the work, preserve its current stage and actual rendered files, strategic traceability, asset provenance and unresolved conditions. Draft-stage state includes all three boards, supporting research and studies, the recommendation, pairwise distinctions, received feedback or visual references and the pending development decision. Selected-system state includes the selected board, complete guide and permitted adaptations. A thumbnail, territory name or recommendation alone does not preserve the work or establish user approval.
 
+### Concept review handoff
+
+Retain the concept identity/version, scope, originating capability, complete upstream artifacts, review criteria, inspected sources, supported principles, objections and alternatives, accepted/rejected/deferred critiques, revised concept, protected strengths, unresolved disagreements, recheck result and reopening conditions. Mark simulation and reviewer independence accurately. The receiving capability verifies applicability before reuse. Conceptual judgments remain distinct from observed outcomes and do not automatically become reusable learning.
+
 RPSTR9_SECTION_END: contracts
 
 ---
@@ -2189,6 +2202,70 @@ Planning and measurement use plain, familiar vocabulary in both profiles. When r
 Brand Identity Director, visual identity and Brand Board name the same capability and deliverables in both vocabulary profiles. In Japanese, use ブランド・アイデンティティ・ディレクター, ビジュアル・アイデンティティ and ブランドボード naturally. Strategy labels follow the mapping above; the underlying eight-element input, creative decisions, full identity guide, visual board and quality criteria remain identical. Changing vocabulary does not authorize a different identity or another strategy revision.
 
 RPSTR9_SECTION_END: vocabulary
+
+---
+
+<a id="rpstr9-concept-review"></a>
+
+RPSTR9_SECTION_BEGIN: concept-review
+
+## Concept Review
+
+Improve the organizing proposition or creative premise before committing to its concrete expressions. A concept states the value or experience and the principle that holds the work together; an idea is a particular way to realize it. Allow rough sketches and exploratory examples that make a concept inspectable. Do not require finished execution before reviewing the premise, or prohibit exploration that exposes a useful alternative.
+
+This is one shared method for marketing, publication development, strategy, identity, editorial programs and creative direction. The coordinating skill controls when it runs. The skill that originated the concept owns substantive revisions; the receiving skill inherits the reviewed concept and its conditions. Direct specialist use follows the same boundary. This method grants no additional publication, spending or contact authority and creates no additional user approval pause for already-authorized work.
+
+### Establish the assignment and review basis
+
+Read the actual objective, intended audience and desired experience or benefit, evidence, resources, constraints, candidate concepts and their originating artifacts. Preserve approved strategy and explicitly locked decisions. Recover missing context where possible; distinguish a provisional premise from an established fact. A title or a claim that the strategy exists is insufficient input.
+
+Before favoring a candidate, record the decision to make and task-derived criteria. Define what would count as audience value, strategic fit, originality that matters, credible delivery and a material failure for this assignment. Do not impose a fixed criterion weighting, panel size, creative style or commercial objective. Consider retaining the current approach or rejecting every candidate where relevant.
+
+Give candidates stable identities and comparable descriptions. Retain the input versions and the original appeal of each, so revision can be assessed against what it was meant to preserve. Do not weaken alternatives, retrofit criteria or selectively research support to vindicate a preferred conclusion. If new evidence warrants changing a criterion, state the reason and reassess every affected candidate consistently.
+
+### Research perspectives that can change the decision
+
+Select practitioners, researchers or documented bodies of work because their expertise addresses this assignment's material uncertainties and competing interpretations. No permanent roster, celebrity hierarchy or prior example becomes the default panel. Seek relevant dissent and evidence that could overturn the apparent favorite.
+
+Inspect substantive primary sources: authored work, documented methods, interviews or inspectable creative work. Keep author/speaker, source URL or supplied-file reference, relevant date, the supported principle, its limits and why it matters to this concept. Distinguish a person's documented statement from an interpretation of their work, an interviewer’s account, a promotional claim or your own inference. A search snippet, reputation or imagined quotation is not source evidence. Supplement unsupported premises with research or mark them unresolved; do not invent missing expertise or claim complete source access.
+
+Apply these perspectives as a source-grounded simulation. Identify that status once in the review: the named people did not participate or endorse the work. Do not write invented statements in their voices or present role simulation as independent expert judgment. With one assistant, use distinct critique and synthesis passes and state that this is self-review. Additional agents or human reviewers are optional only when available and authorized; their presence does not establish audience validity or require a permanent committee.
+
+### Challenge before synthesizing
+
+Examine each serious candidate under the relevant perspectives before choosing a winner. For every material finding, identify the exact premise or decision being challenged, the strongest support and objection, the source-grounded principle, the causal reason it matters to the audience, and what observation would weaken or reverse the finding. Compare a credible alternative rather than demanding improvement in the abstract.
+
+Test the premise as well as execution feasibility. Distinguish lack of audience value, lack of evidence, a delivery constraint, a disagreement about taste and a fixable expression problem. Do not make every concept conform to the same narrative or utility formula. Scale the examination to the stakes and uncertainty; a long debate transcript or many named reviewers does not establish depth.
+
+Compare conflicting findings explicitly: do they concern different objectives, assumptions, evidence, audiences or tradeoffs? Retain the strongest unresolved disagreement. Do not resolve conflicts by majority vote, fabricated scores or forced consensus. A strong objection may justify retaining the concept with a discriminating test rather than making it safer, more conventional or more complicated.
+
+### Revise through the originating skill, then recheck
+
+Return actionable requirements to the originating capability: what to preserve, change, reject or investigate, and why. Use its complete method to revise the actual concept within the authorized scope. When called alone without that capability, provide an explicit concept revision or revision brief and identify its scope; do not claim to have executed an unavailable full strategy or identity method.
+
+Accept, reject or defer each material critique with reasons. Valid outcomes are retain, revise, reject and unresolved. Criticism alone does not warrant change. A critique that requires altering an approved strategy becomes an explicit upstream proposal; it must not silently overwrite that strategy. Preserve the original artifact and version the revision.
+
+Recheck the changed premise against the original criteria, relevant objections and strongest alternative. Check whether the revision actually addresses the issue, retains the distinctive appeal and protected strengths, introduces unsupported promises or creates new contradictions. Include meaningful before/after differences and remaining conditions. If the answer depends on a prototype or audience observation, specify what comparison would resolve it instead of simulating a successful result.
+
+Complete a substantive critique, a revision where warranted and a focused recheck. Continue only while new evidence or a material unresolved issue can change the decision within the task's resources; stop on repeated objections without new information, diminishing material changes or an external evidence dependency. Preserve unresolved status and continue independent authorized work. Do not manufacture certainty, a mandatory pilot, an endless review loop or another permission ritual.
+
+### Deliver and reuse
+
+Return the reviewed concept or candidate set, an actionable recommendation and a concise decision record. Include:
+
+- Assignment, original concept/input versions, review criteria and source-grounded perspectives.
+- Material strengths, objections, alternatives, evidence and unresolved disagreements.
+- Accepted, rejected and deferred critiques with reasons; actual revised concepts and originating capability.
+- Protected strengths, remaining conditions, recheck findings and the questions requiring prototypes or audience evidence.
+- Review identity/version, concept scope, upstream versions and criteria for reopening it.
+
+Deliver useful conclusions and evidence, not private reasoning or a theatrical debate transcript. Keep the full source artifacts available in the handoff; a brief summary cannot replace required strategic context. In Media System, retain this as a private ConceptReview record and link it from the downstream handoff. Elsewhere, the same fields may be a normal working document; no particular storage tool is required.
+
+Reuse the record when the concept, objective, audience, strategy, material constraints and decision-relevant evidence are unchanged. A local wording, crop or routine execution change does not require a fresh panel. Reopen only affected findings when the underlying premise changes or new evidence challenges it. A new concept created downstream needs its own review before concrete development; a caller may not bypass this by omitting the master.
+
+Keep later critique of the actual produced work: a sound concept does not prove a strong execution. Store simulated conceptual judgments as judgments, not observed audience outcomes or validated lessons. Changes to reusable methods require the separate learning/evaluation process; one persuasive critique cannot automatically rewrite a shared skill.
+
+RPSTR9_SECTION_END: concept-review
 
 ---
 
@@ -2333,6 +2410,10 @@ Keep the complete strategy artifact available to [Perception Flow](#rpstr9-perce
 
 Also make that same complete strategy available to [Brand Identity Director](#rpstr9-brand-identity-director) when visual identity or a Brand Board is requested. This is a separate downstream branch; the Flow-dependent creative-priority rule above concerns marketing execution, not core identity development. Identity interprets the strategy without silently redefining it, and neither an identity nor a Brand Board is required before Flow can proceed.
 
+### Concept-to-idea review
+
+For a new or materially changed organizing concept, load the complete [Concept Review](#rpstr9-concept-review) after developing comparable candidate premises and before committing to concrete creative ideas. Rough sketches can make a premise inspectable. Apply its researched perspectives, substantive challenge, revision through the originating capability and focused recheck; carry the resulting concept, protected strengths, unresolved conditions and review version into the handoff. Reuse a valid review for the same unchanged premise, and preserve locked strategy and narrow revision scope. Direct invocation follows this rule without requiring the master. Keep later review of the actual output; conceptual judgment is not audience evidence. This adds no approval pause for already-authorized work.
+
 RPSTR9_SECTION_END: brand-holotype
 
 ---
@@ -2387,6 +2468,10 @@ If rendering is unavailable, say so and deliver the briefs and specifications th
 For fresh/open work, show the three rendered draft boards with concise concept and comparison notes, a clear recommendation and its strategic reasons, then end with one open feedback invitation that welcomes selection, text comments, a reference image or a fresh round of three different ideas. Stop before a winner-only rebuild, production cleanup or complete finalized guide. Preserve the drafts’ strongest visual qualities; do not neutralize them to make the presentation seem finished. After the user selects a direction, or explicitly delegates selection and finalization, develop that direction and deliver its board and complete supporting guide. Follow the full reference’s quality and provenance checks for the current stage, keep observed brand facts distinct from proposals, and show unresolved rights or implementation conditions where they affect use. Derive all creative choices from the current task; no previous example supplies a reusable default.
 
 Complete the requested stage and its necessary prerequisites before the closing question. Delivering the three rendered drafts and recommendation completes the default fresh/open stage; user feedback or selection is its next action. Identity work does not itself authorize publishing, purchasing, changing a live brand or contacting others. When invoked through a Marketer entry, use the open feedback invitation as that entry’s single closing question at this stage. Feedback authorizes the requested exploration or revision; it does not automatically select a direction or authorize finalization.
+
+### Concept-to-idea review
+
+For a new or materially changed organizing concept, load the complete [Concept Review](#rpstr9-concept-review) after developing comparable candidate premises and before committing to concrete creative ideas. Rough sketches can make a premise inspectable. Apply its researched perspectives, substantive challenge, revision through the originating capability and focused recheck; carry the resulting concept, protected strengths, unresolved conditions and review version into the handoff. Reuse a valid review for the same unchanged premise, and preserve locked strategy and narrow revision scope. Direct invocation follows this rule without requiring the master. Keep later review of the actual output; conceptual judgment is not audience evidence. This adds no approval pause for already-authorized work.
 
 RPSTR9_SECTION_END: brand-identity-director
 
@@ -2489,6 +2574,10 @@ For each territory under active comparison, develop all of the following:
 - What could fail, become clichéd, confuse the audience, contradict the strategy or prove difficult to execute.
 
 Develop territories comparably enough to make a meaningful choice. Do not present one polished favorite beside underdeveloped alternatives. Exploratory representations can remain provisional, but they must reveal the organizing logic instead of using a random moodboard as a substitute. No sample territory, name or visual treatment from prior work is a permanent instruction.
+
+#### Review the organizing concepts
+
+Before committing candidate territories to concrete art-direction ideas, use the complete [Concept Review](#rpstr9-concept-review). Research relevant perspectives, challenge each premise and revise through this identity method while preserving the full strategy and each direction's valuable distinction. Rough visual studies may support that early review. Reuse an applicable review of an unchanged territory. Carry the reviewed premise, protected strengths and remaining questions into the briefs; keep the rendered comparison and three-draft feedback endpoint below.
 
 #### Turn the direction into visible evidence
 
@@ -2874,6 +2963,10 @@ Deliver the complete brief in the user's language. A standalone brief request en
 
 Before delivery, compare the brief against the actual latest sources. Check every selected row's starting perception, target perception, behaviour, job, claim support, and measure. Verify that fixed strategy and open creative choices are distinct, the priority follows the diagnosis, and required uncertainty survives the handoff. Repair the brief itself when it drifts.
 
+### Concept-to-idea review
+
+For a new or materially changed organizing concept, load the complete [Concept Review](#rpstr9-concept-review) after developing comparable candidate premises and before committing to concrete creative ideas. Rough sketches can make a premise inspectable. Apply its researched perspectives, substantive challenge, revision through the originating capability and focused recheck; carry the resulting concept, protected strengths, unresolved conditions and review version into the handoff. Reuse a valid review for the same unchanged premise, and preserve locked strategy and narrow revision scope. Direct invocation follows this rule without requiring the master. Keep later review of the actual output; conceptual judgment is not audience evidence. This adds no approval pause for already-authorized work.
+
 RPSTR9_SECTION_END: creative-brief
 
 ---
@@ -2958,6 +3051,10 @@ Use a clearly labeled provisional memo when conditions remain unresolved. Explor
 
 Before delivery, compare every plan with the source brief, check actual consumer content and the shared same-row boundaries, verify meaningful differences and supported claims, and confirm that the comparison and memo exist as complete text. End a normal planning delivery by inviting more plans or revisions, without making completion depend on that reply.
 
+### Concept-to-idea review
+
+For a new or materially changed organizing concept, load the complete [Concept Review](#rpstr9-concept-review) after developing comparable candidate premises and before committing to concrete creative ideas. Rough sketches can make a premise inspectable. Apply its researched perspectives, substantive challenge, revision through the originating capability and focused recheck; carry the resulting concept, protected strengths, unresolved conditions and review version into the handoff. Reuse a valid review for the same unchanged premise, and preserve locked strategy and narrow revision scope. Direct invocation follows this rule without requiring the master. Keep later review of the actual output; conceptual judgment is not audience evidence. This adds no approval pause for already-authorized work.
+
 RPSTR9_SECTION_END: marketing-planning
 
 ---
@@ -3040,4 +3137,4 @@ Recommend continuation, adjustment, further evidence, expansion, redesign, or st
 
 RPSTR9_SECTION_END: marketing-measurement
 
-RPSTR9_DOCUMENT_END: 1.4.7
+RPSTR9_DOCUMENT_END: 1.4.8
