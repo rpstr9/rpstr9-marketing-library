@@ -14,12 +14,16 @@ No installation or named model is required. Execution depends on the assistant's
 
 The complete instructions include a shared Concept Review skill. It researches relevant expert perspectives, challenges candidate concepts, sends revisions back to the originating skill, and rechecks them before concrete idea development. Direct strategy, identity and planning calls use the same review. Unchanged concepts reuse a valid review; no fixed expert panel or additional approval pause is required. Simulated critique remains distinct from actual expert participation and audience evidence.
 
+## Brand identity drafts
+
+Brand Identity Director develops three candidate identities in three independent generation calls and delivers three standalone board images. Each call receives its own concept brief and references plus the approved shared brand context. The separate results are inspected, compared and presented with a recommendation before the user chooses a direction.
+
 ## Source
 
-The Marketer file is unchanged from the maintained complete edition: link edition 1.4.8, method version 1.3.7. It includes 30 complete source sections.
+The Marketer file is unchanged from the maintained complete edition: link edition 1.4.9, method version 1.3.8. It includes 30 complete source sections.
 
 - Original file: `MARKETER.md`
-- Size: 392,459 bytes
-- SHA-256: `b2cb72b16584f94837aa9ad191ab60f8e1537d23d6fb54c48f5c53e6eb0d556b`
+- Size: 395,790 bytes
+- SHA-256: `beee947d0fc994a3bd97a8650db7b235f1e84af8ab6f3bd8136a7a0289eb3f48`
 
 This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.
