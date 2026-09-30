@@ -2,7 +2,21 @@
 
 A public library of reusable marketing instructions.
 
-## Use the skill
+## Brand Name Generator / ブランド名を戦略からつくる
+
+ブランドホロタイプまたは同等の8要素戦略から、名称の方向、候補、読み、比較、推奨、未確認事項を作ります。表示名・アカウントID・ドメインを区別します。
+
+- [Brand Name Generator — 指示と必須参照の全文](https://raw.githubusercontent.com/rpstr9/rpstr9-marketing-library/main/BRAND_NAME_GENERATOR.md)
+- [GitHubで全文を読む](BRAND_NAME_GENERATOR.md)
+- [インストール用スキルフォルダを取得](brand-name-generator.zip)
+
+AIにはこの開始ガイド、命名の依頼、戦略の本文、市場・言語・使用媒体・変更できない条件を渡してください。AIは命名を依頼されたら上の完全版を全文読み、既存戦略を再作成せずに実行します。戦略がないときだけ、下記の完全なMarketerメソッドからBrand Holotype能力と必須全文資料を読み、必要な戦略を先に作ります。命名のみの依頼にPerception Flowやロゴ制作を追加しません。
+
+リンクを読めない環境では完全版をダウンロードし、ファイルとして添付できます。インストールは任意です。ZIPを使う場合は、展開した `brand-name-generator` フォルダを利用するAI環境のスキルディレクトリへ置き、全文の読み込みを確認してください。名称の生成・比較と、使用権の確認・登録・公開は別の行為です。
+
+版1.0.0。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
+
+## Use the strategy skill
 
 Open [Marketer — complete instructions](https://raw.githubusercontent.com/rpstr9/rpstr9-marketing-library/main/MARKETER.md) and provide your brand, product or task to an AI assistant that can read the full document. All required method sources are included in that single file; its internal links point to sections of the same document.
 
@@ -26,4 +40,4 @@ The Marketer file is unchanged from the maintained complete edition: link editio
 - Size: 395,790 bytes
 - SHA-256: `beee947d0fc994a3bd97a8650db7b235f1e84af8ab6f3bd8136a7a0289eb3f48`
 
-This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. No reuse license has yet been specified.
+This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. The pre-existing Marketer document has no repository-wide reuse license specified. The naming package carries its own included upstream MIT notice; that notice does not relicense unrelated library material.
