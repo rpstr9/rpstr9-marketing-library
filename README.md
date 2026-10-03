@@ -14,7 +14,7 @@ AIにはこの開始ガイド、命名の依頼、戦略の本文、市場・言
 
 リンクを読めない環境では完全版をダウンロードし、ファイルとして添付できます。インストールは任意です。ZIPを使う場合は、展開した `brand-name-generator` フォルダを利用するAI環境のスキルディレクトリへ置き、全文の読み込みを確認してください。名称の生成・比較と、使用権の確認・登録・公開は別の行為です。
 
-版1.0.0。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
+版1.1.0-public-candidate。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
 
 ## Use the strategy skill
 
@@ -34,10 +34,10 @@ Brand Identity Director develops three candidate identities in three independent
 
 ## Source
 
-The Marketer file is unchanged from the maintained complete edition: link edition 1.4.9, method version 1.3.8. It includes 30 complete source sections.
+The 30 complete method sections retain the maintained source depth. Scoped identity input/process wording distinguishes preserve/adapt from create; this candidate adds three complete identity references and their activation routes. Baseline: link edition 1.4.9, method version 1.3.8. The baseline contains 30 complete source sections; this candidate contains those 30 plus three complete identity references (33 sections total).
 
 - Original file: `MARKETER.md`
-- Size: 395,790 bytes
-- SHA-256: `beee947d0fc994a3bd97a8650db7b235f1e84af8ab6f3bd8136a7a0289eb3f48`
+- Size: 420,557 bytes
+- SHA-256: `e8d79f95736a7507fa309a6bfd358deb233f59256af53426efd90d92e61c8589`
 
 This repository is testing the simplest public delivery route. Public availability and successful retrieval by an AI browsing tool are checked separately. The pre-existing Marketer document has no repository-wide reuse license specified. The naming package carries its own included upstream MIT notice; that notice does not relicense unrelated library material.

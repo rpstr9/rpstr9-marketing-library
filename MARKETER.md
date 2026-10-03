@@ -1,6 +1,6 @@
 # Marketer — RPSTR9
 
-Link edition 1.4.9. Vocabulary profile: `mainstream`. Method version: 1.3.8.
+Link edition 1.4.10-candidate.1. Vocabulary profile: `mainstream`. Method version: 1.3.8 with scoped naming/identity execution and adaptation supplements. Baseline edition 1.4.9, content commit 36ad60fcf6fc23b021e31eb9cdac46fa725ef90b; original strategy source texts retained.
 
 ## Start the user's task
 
@@ -55,6 +55,9 @@ Place the question after the completed deliverable and any required memo. Offeri
 - [brand-holotype](#rpstr9-brand-holotype)
 - [brand-identity-director](#rpstr9-brand-identity-director)
 - [identity-system](#rpstr9-identity-system)
+- [existing-identity-adaptation](#rpstr9-existing-identity-adaptation)
+- [reference-to-design-judgment](#rpstr9-reference-to-design-judgment)
+- [fashion-art-direction-lenses](#rpstr9-fashion-art-direction-lenses)
 - [perception-flow](#rpstr9-perception-flow)
 - [stage-rules](#rpstr9-stage-rules)
 - [creative-brief](#rpstr9-creative-brief)
@@ -2436,7 +2439,8 @@ Inherit the calling vocabulary profile; otherwise use the PFM profile unless the
 
 ### Contract and graph position
 
-- **Requires:** The complete actual eight-element Brand Holotype or its identical mainstream strategy, with relevant evidence, constraints and current decisions. Obtain the real latest artifact, including user corrections, rather than inferring its contents from a brand name, file title, summary or claim that strategy is finished. Existing identity assets, guidelines, portfolio relationships, touchpoints, rights and production constraints are additional inputs when available and relevant.
+- **Requires for create or material redesign:** The complete actual eight-element Brand Holotype or its identical mainstream strategy, with relevant evidence, constraints and current decisions. Obtain the real latest artifact, including user corrections, rather than inferring its contents from a brand name, file title, summary or claim that strategy is finished. Existing identity assets, guidelines, portfolio relationships, touchpoints, rights and production constraints are additional inputs when available and relevant.
+- **Requires for preserve/adapt:** Authoritative existing identity materials and enough actual task/brand context to apply them faithfully. Reuse complete strategy when available; resolve only consequential gaps rather than requiring a new eight-element report. New meaning or material redesign returns to create requirements.
 - **Produces:** An `identity` artifact with explicit draft or selected-system status. Fresh/open work normally delivers three distinct, comparably developed rendered draft boards, a clear recommendation with strategic reasons and tradeoffs, and an invitation for feedback or selection before finalization. Retain the source-strategy revision, supporting research and studies, asset provenance, material assumptions, unresolved conditions and rendered files. After selection, develop the chosen system and complete its board, element specifications and roles, behavior rules, stress tests and supporting guide. A narrow request produces the requested revision or comparison while preserving the existing system.
 - **Reuse:** Reuse a valid complete strategy, established identity direction, approved or explicitly locked territory, actual assets and evidence. Inspect their substance, versions, rights and applicability. Do not reopen territory selection or redesign unaffected elements for a local change. Preserve the full current system and update the board, guide and affected applications consistently.
 - **Invalidated by:** A material change in upstream strategy, audience, benefit, brand meaning, portfolio relationship, evidence about existing recognition, competitive visual context, available assets or rights, required touchpoints, production constraints or accessibility needs. Revalidate the affected decisions and dependencies; language or vocabulary changes alone do not invalidate substantive identity work.
@@ -2449,7 +2453,7 @@ Interpret the strategy visually; do not invent a new audience, purpose, benefit,
 
 ### Apply the complete identity process
 
-Use the full reference to extract meaning and visual imperatives, derive task-specific visual tensions, investigate category codes, generate genuinely distinct territories, evaluate them and render draft boards for selection. Develop the selected system, its guide and relevant applications in the subsequent stage. Preserve knowledge acquisition, fixation checks, divergent exploration, concept/research iteration and convergent judgment throughout; these are a repeatable search process, not a deterministic formula or a substitute for taste and evidence.
+For create or material redesign, use the full reference to extract meaning and visual imperatives, derive task-specific visual tensions, investigate category codes, generate genuinely distinct territories, evaluate them and render draft boards for selection. For preserve/adapt, apply the existing-system route and relevant full-method execution, rights and stress-test checks without reopening territory selection. Develop the selected system, its guide and relevant applications in the subsequent stage. Preserve knowledge acquisition, fixation checks, divergent exploration, concept/research iteration and convergent judgment throughout; these are a repeatable search process, not a deterministic formula or a substitute for taste and evidence.
 
 For a fresh or open identity, develop creative direction into concrete art-direction briefs and render comparable visual prototypes before final territory selection. Judge the actual compositions and their intended perceptual or emotional effect, separately from technical correctness, then make targeted corrections that preserve each draft’s organizing idea and expressive strength. Assign imagery, typography and functional information their own task-derived jobs; they need not each explain the entire strategy. Follow the reference’s scope exceptions for locked directions, local revisions and unavailable rendering. Written territory reasoning alone is not evidence that a visual direction works.
 
@@ -2474,6 +2478,13 @@ Complete the requested stage and its necessary prerequisites before the closing 
 ### Concept-to-idea review
 
 For a new or materially changed organizing concept, load the complete [Concept Review](#rpstr9-concept-review) after developing comparable candidate premises and before committing to concrete creative ideas. Rough sketches can make a premise inspectable. Apply its researched perspectives, substantive challenge, revision through the originating capability and focused recheck; carry the resulting concept, protected strengths, unresolved conditions and review version into the handoff. Reuse a valid review for the same unchanged premise, and preserve locked strategy and narrow revision scope. Direct invocation follows this rule without requiring the master. Keep later review of the actual output; conceptual judgment is not audience evidence. This adds no approval pause for already-authorized work.
+
+
+### Explicit execution and adaptation routes
+
+For existing guidelines, logos, fonts, colours, websites or assets applied to new formats, read [existing-identity adaptation](#rpstr9-existing-identity-adaptation) in full. Distinguish preserve/adapt from create; a format change does not authorise a rebrand. In this mode, authoritative identity materials and adequate actual task/brand context satisfy the input. Reuse an available strategy and repair only consequential gaps; do not require a new strategy report or territory exploration for a faithful export. Create or material redesign retains the full eight-element requirement.
+
+For fresh identity development or material typography, colour or composition changes, read [reference-to-design judgment](#rpstr9-reference-to-design-judgment) and [fashion art-direction lenses](#rpstr9-fashion-art-direction-lenses) in full alongside the complete method. Use relevant documented lenses to prepare briefs and critique actual rendered work; do not claim the practitioners participated. Retain source-to-decision, rejection and actual before/after evidence.
 
 RPSTR9_SECTION_END: brand-identity-director
 
@@ -3145,4 +3156,165 @@ Recommend continuation, adjustment, further evidence, expansion, redesign, or st
 
 RPSTR9_SECTION_END: marketing-measurement
 
-RPSTR9_DOCUMENT_END: 1.4.9
+
+
+
+---
+
+<a id="rpstr9-existing-identity-adaptation"></a>
+
+RPSTR9_SECTION_BEGIN: existing-identity-adaptation
+
+## Import and faithfully adapt an existing identity
+
+Read for requests to use existing guidelines, logos, fonts, colours, websites or assets in social, blog or production materials. This is a distinct mode within the full identity method; it does not require new territories or three competing identities.
+
+### Establish authority and constraints
+
+An authoritative existing system plus adequate actual task/brand context can satisfy a faithful preservation/adaptation request without a newly reconstructed eight-element strategy. Reuse available strategy; repair only gaps that would change the adaptation. New meaning or material redesign requires the complete strategy through the create mode.
+
+Inspect the actual files and rendered examples, not filenames or a description of their existence. Inventory source/owner, version/date, authoritative status, dimensions, format, colour profile, font names/files/glyph coverage, usage and embedding rights, approved mark variants and uncertainty. A website is useful evidence of use but may not supersede supplied guidelines. Resolve conflicting sources with the user's precedence; preserve uncertain choices rather than quietly invent an official rule.
+
+Separate explicit rules, observed recurring relationships and provisional inferred rules. Record the assets that must remain exact and what may adapt. Do not redraw an existing logo from memory, approximate it with generated lettering, extract an unlicensed font from a site or treat access as permission to redistribute. Where rights or a necessary master are missing, complete permitted layout work with an explicitly provisional substitute and state the affected export limit.
+
+### Preserve / adapt / create
+
+Preserve means exact assets and approved behaviour within an existing format. Adapt means change format, crop, hierarchy or content while retaining protected recognition and rules. Create means develop a new identity or an explicitly authorised redesign through the full fresh/selected-system method. Confirm the mode from the request and evidence; a new social size does not authorise a rebrand. An established identity can be deliberately unfashionable and still be faithfully adapted. Do not impose a fashion aesthetic against its equity.
+
+### Translate the system, not one screenshot
+
+Interpret mark placement/clear space, type hierarchy, colour-area roles, alignment/grid, imagery, texture, recurring devices and their limits. Use approved master assets deterministically for precise logos and text; generated imagery can supply separately identified new image content when authorised. Match production fonts only with verified access; record any fallback and its metric/glyph differences. Preserve exact wording and claim limits.
+
+Build representative requested outputs using real content. Derive format specifications from the actual destination or label assumed sizes. Check safe regions, circle/avatar crops, mobile preview, image focal point, full text/glyphs, contrast on actual backgrounds, long headlines and export quality. Inspect exported pixels, not just source code. Recheck after changing a repeated asset; one corrected hero does not repair all applications.
+
+### Evidence and handoff
+
+Retain source-to-output mapping, protected constraints, allowed transformations, asset/font rights status, editable sources, exports with dimensions and profiles, crop/readability findings, and unresolved production conditions. Mark draft versus approved output. A faithful adaptation can complete without selecting a new identity. A conflict requiring new strategy or redesign is a separate proposal; do not silently resolve it inside a production export.
+
+RPSTR9_SECTION_END: existing-identity-adaptation
+
+
+---
+
+<a id="rpstr9-reference-to-design-judgment"></a>
+
+RPSTR9_SECTION_BEGIN: reference-to-design-judgment
+
+## Reference-to-design judgment at execution scale
+
+Read for fresh identity development and material typography, colour or composition revisions. Apply with the complete identity method and the existing eleven researched fashion/editorial lenses. Preserve that library; do not invent a historical roster or pretend those practitioners participated.
+
+### Make research change a decision
+
+Inspect primary portfolios or authoritative brand/editorial systems as images. For each consequential reference, retain the inspected application and credits, observed letterform/spacing/scale relationships, compositional rhythm, colour area and material/image treatment. State the principle transferred, why it fits the actual brand, what remains original, and an observable acceptance/rejection test. A URL, designer name or mood adjective cannot stand in for inspected evidence. Document unavailable images accurately.
+
+Taste is an intentional relationship, not a palette class. Thin serifs, beige paper, black luxury layouts, generous blank space or bright accents earn their roles only when the actual arrangement works. Functional information need not be the whole brand idea. Keep its necessary comprehension while giving the name, image and composition distinct jobs. Do not convert strategy into a literal illustration of every feature.
+
+### Compare actual encounters
+
+Prototype the exact wording and required scripts. Compare optical weight, counters, width, spacing, punctuation, line endings, type/image proportion and quiet versus dense areas. Ground consequential choices in inspected work before selecting accessible implementations. Use deterministic type/layout for exact text and production assets where appropriate; image generation demonstrates material, scene and expressive possibilities, not verified font implementation or a vector master.
+
+Inspect a genuine physical or digital use at its intended scale as well as the large board. A café direction must convince in the actual sign/cup/menu roles required by the brief; editorial work in its masthead, small mark and content of varying length. This is a conditional application requirement, not a universal asset quota. Avoid hiding weak composition behind shallow-focus interiors or tiny specimens. Match information and polish across alternatives without forcing a shared board template.
+
+### Reject, revise, re-render
+
+For each material finding retain candidate/version and pixels; protected strength; exact defect and viewer consequence; reference-supported principle/limit; bounded change; actual revised pixels and recheck. When nothing changed, explain why the objection was rejected. If candidates remain interchangeable after ignoring their names/colours, replace the organising idea rather than relabel it. If a name is weak, return it to naming instead of decorating it.
+
+Do not certify a direction using a checklist alone. A craft failure, unsupported fit or copied recognisable construction triggers repair before recommendation. Preserve expressive strengths while fixing the affected relationship. Distinguish designer judgment, technical verification and audience evidence. Report unresolved dependencies instead of declaring a fictional PASS.
+
+A meaningful handoff contains finished inspectable draft applications, separate candidate files and a reasoned recommendation, together with provenance and the compact decision record. A comparison board can supplement separate candidates when requested; it does not replace independently produced candidates. Preserve the full method's draft-selection endpoint and publishing boundaries.
+
+RPSTR9_SECTION_END: reference-to-design-judgment
+
+
+---
+
+<a id="rpstr9-fashion-art-direction-lenses"></a>
+
+RPSTR9_SECTION_BEGIN: fashion-art-direction-lenses
+
+## Fashion art-direction review lenses
+
+Research checked 2026-10-02. This is a selectable reference library, not a permanent panel, style prescription or ranking. As part of visual identity or editorial-design work that develops or materially revises typography or colour, load this full reference during art-direction development and critique of the actual rendered output before handoff. It also applies when explicitly requested. Select only relevant lenses; research other practitioners when the assignment warrants them. Reuse valid findings for unchanged work. General strategy and nonvisual concept reviews do not activate this module by default. Adapt every diagnostic to the actual strategy, language, medium, content, rights and constraints.
+
+### Evidence and simulation discipline
+
+Label application **公開作品に基づく仮説的な批評視点**. These are research-grounded simulated critique lenses authored for the method, not participation, endorsements, quotations, private beliefs or predictions of anyone's exact response. Do not speak in a director's voice. Separate documented project/role/date/collaborators; observations of identified images; and your adapted inference. Dated work does not establish a current appointment. A small sample does not establish an unchanging personal style. Preserve photographer, designer, studio and co-art-direction credits. Sources are analytical references, not licensed reusable brand assets.
+
+For each selected lens, identify a protected strength, an evidence-linked objection and a bounded revision test. Point to the actual artifact and reader consequence. Decide through the originating identity method against the task's criteria; do not average invented preferences or hold a celebrity vote. Distinguish visible defects from impressions requiring audience testing. Sophistication means intentional relationships and editing; luxury, exclusivity, muted colour, thin serifs and obscure language are not universal requirements.
+
+### Fabien Baron — typography expresses the editorial idea
+
+Documented: first-person [Magazeum interview](https://magazeum.co/content/fabien-baron) explains typography through word meaning, scale, colour and relationship to pictures, rather than styling alone. [Jonathan Hoefler's typeface record](https://jonathanhoefler.com/typefaces) dates HTF Didot to 1991 and its Bazaar debut to September 1992. Inspectable anchors in the interview include the Avedon Bazaar opener with a huge lowercase a and monochrome portrait, and Interview's February 1990 cover with an ochre handwritten masthead. Credit photographers separately; those executions demonstrate different registers.
+
+Observed: the giant letter balances an image and quiet copy; the cover's colour/handwritten gesture counters a universal black-and-white serif recipe. Adapted lens: test whether headline wording, optical weight, scale, line break, colour area and picture tell one idea. Specify actual content and intended sizes before judging a type sample. Do not copy Didot, Bazaar mastheads or a source composition; optical-size discipline does not establish licence or Japanese glyph suitability. Avoid a mandatory single dominant element where the brief needs comparison or distributed navigation.
+
+### Marc Ascoli — image meaning before surface styling
+
+Documented anchors: Yohji Yamamoto A/W 1995–96 catalogue, David Sims photography, Stella Tennant; Martine Sitbon A/W 1991–92 catalogue, Nick Knight photography, Kirsten Owen/Kristen McMenamy in the selections. [First-person System portfolio with project captions](https://system-magazine.com/issues/issue-1/portfolio-marc-ascoli). [Musée des Arts Décoratifs](https://madparis.fr/yohji-yamamoto) separately documents Ascoli/Knight on Yohji A/W 1986–87; do not conflate dates.
+
+Observed sample: garment silhouettes and gestures organize pale fields; a red portrait/turquoise still life creates a deliberate colour relationship. Adapted lens: remove branding and ask what specific idea remains in the image; make crop, intervention and wording cooperate. Test a relevant decision scene against atmospheric imagery. Do not universalize monochrome, red, Japanese minimalism or surreal poses; credit actual typographic designers where known.
+
+### Ezra Petronio — recognizable codes with controlled variation
+
+Documented anchors: Chloé fragrance advertising 2008; Yves Saint Laurent Manifesto S/S 2009, dated images in [The Fashion Post interview](https://fashionpost.jp/portraits/74228). [Phaidon's monograph](https://www.phaidon.com/en-us/products/ezra-petronio-visual-thinking-image-making) corroborates fashion/beauty and editorial work. Separate collaborative credits: Phaidon's Miu Miu S/S 2008 example credits Suzanne Koller and photography by Mert Alas/Marcus Piggott.
+
+Observed: cream lettering and bottle accompany an intimate monochrome portrait; enlarged red YSL interrupts a monochrome image in the other project. Adapted lens: establish one recognizable code, assign secondary codes supporting jobs, test varied content across avatar, cover and masthead. Negotiate image/type relationships rather than hiding either by habit. Do not copy intertwined marks, lettering or Polaroid style, and do not let a large logo displace necessary content.
+
+### Thomas Lenthal — stable editorial containers for demanding ideas
+
+Documented anchors: System Issue 10 F/W 2017, [studio work](https://lenthal.com/work/) and [publisher archive](https://system-magazine.com/issues/issue-10); Prada Candy Florale campaign/press kit in the studio portfolio, Steven Meisel photography and François Berthoud illustrations. The latter page gives no campaign date: its upload directory is not dating evidence. [First-person interview, 21 November 2025](https://www.technikart.com/thomas-lenthal-lhistoire-vivante/) discusses System's stable structure and Times.
+
+Observed: changing cover images share a separated masthead/picture/caption order; Candy uses another tone and illustrative format. Adapted lens: prototype substantive content first, differentiate title/lead/body/caption/evidence and test multiple lengths within one system. Ordinary type can be intentional; it is not a directive to use Times or a weak language match. Avoid tiny text, newspaper costume or academic obscurity as shortcuts to authority.
+
+### Giovanni Bianco — a campaign is an edited sequence
+
+Documented anchors: Miu Miu Resort 2017, representative publication 9 December 2016; Miu Miu Pre-Fall 2017, representative publication 5 May 2017. Both credit Giovanni Bianco/GB65 art direction and Alasdair McLellan photography. [Resort credits/images](https://cxainc.com/edition/miu-miu-resort-2017-campaign-art-directed-by-giovanni-bianco/), [Pre-Fall credits/sequence](https://cxainc.com/edition/miu-miu-pre-fall-2017-ad-campaign-with-art-direction-by-giovanni-bianco/). [First-person interview](https://fashionpost.jp/portraits/65839).
+
+Observed: detail, person and group frames vary information scale; recurring anchors maintain continuity; colour arises from clothes and scenes. Adapted lens: compare a content sequence for both individual clarity and recognition, vary framing by editorial purpose, retain selected invariants. Do not copy the campaign footer/grid or infer a universal maximalist/celebrity aesthetic. Repetition should carry meaning, not become wallpaper.
+
+### Dennis Freedman — believable situations and a reason to care
+
+Documented anchors: W's Editor at Large, February 1999, 30-page Juergen Teller office story during Freedman's creative directorship; Barneys catalogues with Teller, eleven seasons 2011–16. [First-person System portfolio](https://system-magazine.com/issues/issue-20/portfolio-dennis-freedman-juergen-teller-for-barneys), [Steidl book record](https://steidl.de/Books/Fashion-Photography-for-America-1999-2016-0622353655.html). The portfolio credits its photographs and layouts to Teller, not solely Freedman. The W concept/date are text-verified; do not claim those pages were visually inspected in this research pass.
+
+Observed Barneys sample: ordinary streets, shops and props situate full-length subjects; restrained labels allow experience to lead. Adapted lens: replace generic prestige with a permission-cleared artifact, contextual scene or clearly labelled illustration that explains a consequential detail. Candid-looking does not establish truth. Do not imitate Teller's flash/poses and attribute them solely to Freedman; protect private client information and keep the practical point readable.
+
+### Peter Saville — identity as a recognizable idea
+
+Documented anchors: Burberry logo/Thomas Burberry monogram, August 2018, October B Series application; Lacoste 80th-anniversary collaboration, 2013, eighty embroidered crocodile variations. [Burberry B Series](https://www.burberryplc.com/news/corporate/2018/b-series), [2018/19 report, printed p.30](https://www.burberryplc.com/content/dam/burberryplc/corporate/documents/investors/results-reports/2019/BURBERRY_Annual_Report_2019_Web.pdf.downloadasset.pdf), [Lacoste history](https://www.lacoste.com/it/lacoste-heritage.html).
+
+Observed: small-scale placement, colour and surrounding context support recognition while a mark varies. Adapted lens: test recognition carriers independently; separate wordmark and compact emblem jobs; inspect an actual small-size application and what survives subtraction. A new brand cannot borrow established recognition to omit its name. Do not copy monograms/patterns or mandate all-caps sans type.
+
+### Patrick Li — a system that can sustain contrast
+
+Documented anchors: Alexander Wang identity/art direction 2007–14, S/S 2010 invitation/mailer and hangtags; T Women's Fashion Spring 2016, Jamie Hawkesworth photography, studio creative direction/design. [Li, Inc. Wang portfolio](https://liinc.com/alexander-wang), [T portfolio with issue captions](https://www.liinc.com/t-magazine).
+
+Observed: compact heavy signatures and delicate display type have different jobs; a warm large image, smaller monochrome portrait and shaped text block create dialogue and calm zones. Adapted lens: test optical weight across scripts, reserve quiet reading space, and make different formats relatives rather than resized copies. Narrow high-contrast fashion display lettering is not a body-text prescription or Japanese type specification. Do not borrow a masthead or exact letterforms.
+
+### Ruth Ansel — the image carries an editorial proposition
+
+Documented anchors: Bazaar April 1965 Now/Pop cover, Jean Shrimpton photographed by Richard Avedon; August 1966 fold-down cover, James Moore photography. Co-art direction with Bea Feitler; design credited to Ansel. [Magazine retrospective](https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/), [Ansel project commentary/credits](https://www.vanityfair.com/culture/photos/2010/06/art-director-ruth-ansel-slide-show-201006). [2002 first-person Index interview](https://www.indexmagazine.com/interviews-ruth-ansel) discusses photographer/assignment fit; [1994 PBS interview](https://www.pbs.org/wnet/americanmasters/archive/interview/ruth-ansel/) discusses sequencing, impact and not overwhelming the artist.
+
+Observed: a coloured cutout changes the portrait's idea; the fold reveals information. Adapted lens: ask what an image or graphic intervention changes in understanding; match makers to the assignment and use crop, sequence or scroll for meaningful revelation. Do not reduce Ansel to hot pink/surreal faces or designer-centred graphic noise. This is a historical-work lens, not present employment/opinion.
+
+### Alexey Brodovitch — rhythm, cropping and reading momentum
+
+Historical figure, 1898–1971. Documented anchors: Bazaar November 1935 Ramon and Renita spread, Martin Munkacsi photography and Brodovitch art direction; Ballet 1945, photographs/design by Brodovitch, text Edwin Denby, a cross-disciplinary book rather than fashion campaign. [Jewish Museum checklist, printed pp.9–11](https://thejewishmuseum.org/wp-content/uploads/2025/07/20210331_ModernLook_PressChecklist_Screen-1.pdf), [Met collection record](https://www.metmuseum.org/art/collection/search/926741), [Barnes exhibition](https://www.barnesfoundation.org/press/press-releases/brodovitch-exhibition).
+
+Observed: tilted relationships, movement, scale, grain and bleeding images develop rhythm across pages. Adapted lens: review adjacent screens as a sequence, let quiet space direct attention and vary intensity by reading purpose. Cropping must preserve consequential evidence; roughness/blur must serve meaning without obscuring it. Do not prescribe Didone type, print nostalgia, giant empty margins or illegible crops.
+
+### Terry Jones — readers recognize their own life
+
+Documented anchors: British Vogue February 1977, Willie Christie photography during Jones's tenure; i-D issue 1, August 1980, founded/designed by Jones with collaborators. [i-D retrospective with both images](https://i-d.co/article/i-d-founder-terry-jones-awarded-mbe-in-2017-new-years-honors/), [first-person launch/hand-painted logo interview](https://i-d.co/article/terry-jones-the-original-i-con/).
+
+Observed: mouth/green jelly/red nails and lips connect an image to a seasonal colour idea; the black/pink launch cover makes a simple sign immediate. Adapted lens: test whether the intended community recognizes its real circumstances and authorial voice, whether imagery/wording share an idea, and whether one recurring gesture sustains recognition. Do not copy the wink, logo, faux distress or youth-subculture styling. Imperfection does not excuse poor language readability or evidence.
+
+### Apply, revise and verify
+
+Use real brand wording and plausible content lengths. Compare Latin/non-Latin optical balance, spacing, punctuation/line endings, headline/lead/body/caption distinctions, colour-area roles, accent frequency, image/crop logic and reading sequence. Verify exact fonts, glyph coverage, licences and assets before claiming production readiness; rendered approximations are not implemented fonts. Test actual-size small marks and mobile reading specimens where applicable. Nominal swatch contrast is not proof of rendered accessibility; inspect actual text weights/backgrounds and use applicable standards. Clearly labelled illustrative artifacts are not documentary evidence.
+
+For each material revision retain: original artifact/version; observed element; source-supported principle and its limits; adapted proposed change; preserved quality; before/after actual-size comparison; tradeoff; and unresolved test. Revise through the originating capability, preserve independently generated candidate separation, compare the actual outputs and reopen only affected findings. Do not invent audience outcomes or silently select/finalize a direction. Keep task-specific examples and decisions out of this reusable library.
+
+RPSTR9_SECTION_END: fashion-art-direction-lenses
+
+RPSTR9_DOCUMENT_END: 1.4.10-candidate.1

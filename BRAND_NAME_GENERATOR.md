@@ -1,8 +1,10 @@
-# Brand Name Generator — 完全版 1.0.0
+# Brand Name Generator — 完全版 1.1.0-public-candidate
 
-Brand Holotypeの下流で使う名称開発スキル。以下は実行手順、必須の確認資料、出典、原版ライセンスの全文を含む。完成済み戦略がある場合はこの文書だけで命名を開始できる。戦略がない場合の上流メソッドは本文のリンクから別途読む。全文を取得できなければ不足部分を明示する。
+実行手順、必須参照、出典と原版MITライセンスの全文。元の戦略と命名条件を維持し、文化的な個性を実際の使用形で比較します。採用・公開・権利確認は別の判断です。
+
 
 <a id="method"></a>
+
 
 # Brand Name Generator
 
@@ -44,6 +46,16 @@ Brand Holotypeの下流で使う名称開発スキル。以下は実行手順、
 
 名称がその場で担う役割と、説明文・プロフィール・既存ブランドが補う役割を決める。すべてを名前だけで説明させない。一方、由来を長く説明しないと意味を持てない案は、その負担を評価に含める。
 
+## 名称をつくる言語と評価する言語を分ける
+
+候補生成前に [language-policy.md](#language-policy) を読み、命名ブリーフに「名称の構成言語」「応答言語」「評価する市場・言語」を別々に記録する。名称の構成言語は、今回の明示的な指定、ユーザーが設定したローカル既定値の順で決める。既定値が未設定なら、資料にある明示的な命名条件から決め、方向を左右する曖昧さだけを確認する。会話が日本語であること、日本市場や日本人を対象にすること、カタカナ読みが必要であることだけで構成言語を日本語に変更しない。
+
+英語を構成言語にした場合は、英語の既存語、英語の語根・複合・比喩・英語由来の造語から候補をつくる。日本語の形態素、日本語の語をローマ字にしたもの、かなの語呂合わせを素材にしない。既存の英語語彙は歴史的な外来語源だけを理由に除外しない。日本語名や他言語名を明示的に求められた場合は、その指定を優先し、構成言語と採用理由を記録する。
+
+日本語・カタカナは、候補の発音、拍とリズム、聞き取り、入力、意味のリスク、使用場面への適合を評価するために使う。カタカナ化から新しい日本語の語根や後付けの日本語語源を発明しない。評価で弱点が見つかったら、選んだ構成言語内で候補を修正する。構成言語を変える必要があるなら、その判断を明示してブリーフへ戻す。
+
+文化・ファッション・ホスピタリティ・編集媒体の洗練が求められる場合、または名称が凡庸とのフィードバックがある場合は、[文化的な個性と実物比較](#editorial-character) を全文読み、参照調査、却下、改訂、実際の使用形の比較に適用する。既存の戦略・言語・調査手順を置き換えない。
+
 ## 異なる考え方で候補をつくる
 
 戦略上の価値から複数の意味の方向を立て、それぞれの期待する連想とリスクを示す。意味の方向と語の作り方を区別する。同じ語尾や語根の変更だけを別方向として扱わない。
@@ -80,16 +92,22 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 - 検索した対象、クエリ、情報源、日時、範囲、観測結果と未確認事項。省略した調査も明記。
 - 第一推奨と代替案、その理由、残る条件、選ばなかった方向の理由。推奨・ユーザー選択・権利確認・取得済みを区別。
 - 必要なら、対象者に何をどう確かめ、どんな結果で判断を変えるか。実施前の計画と実測値を混ぜない。
-- 次に必要な判断・調査と、アイデンティティやプロフィール制作に渡す表記、読み、意味、保護すべき条件。
+- 次に必要な判断・調査と、アイデンティティやプロフィール制作に渡す表記、読み、意味、保護すべき条件。 引継ぎでは名称が仮称／推奨／選定済みのどれか、構成言語、調査範囲、残した候補と却下理由を明示する。仮称だけのIdentity画像を命名実行済みの証拠にしない。
 
 第一推奨を黙って正式名称として確定しない。選択が明示されていなければ「推奨」、ユーザーが選定まで委任したなら「委任に基づく選定」と記録する。選定しても権利確認や取得を済ませたことにはならない。購入、出願、登録、既存アカウント改名、公開は命名の依頼だけでは実行しない。
 
 フィードバックでは、嫌いな単語だけでなく、意味の方向、音、理解の負担、戦略の不一致のどこが問題かを整理して修正する。変わっていない入力と確認結果を再利用し、期限や対象が変わった可用性だけ再確認する。名称の変更が関係する資産へ影響を伝え、無関係な戦略やFlowを変更しない。
 
-最終確認：8要素を勝手に変えていないか。候補は意味でも異なるか。表記と読みは対応するか。由来を創作事実にしていないか。未確認が残る場所は見えるか。検索なしの空き判定や商標保証がないか。具体的な推奨と次の行動まで届いているか。
+最終確認：候補の素材は記録した構成言語と合うか。評価用の日本語を生成素材や創作語源にしていないか。8要素を勝手に変えていないか。候補は意味でも異なるか。表記と読みは対応するか。由来を創作事実にしていないか。未確認が残る場所は見えるか。検索なしの空き判定や商標保証がないか。具体的な推奨と次の行動まで届いているか。
 
 
-<!-- END method -->
+<a id="language-policy"></a>
+
+# Naming-language configuration
+
+Edition: 1.1.0-public-candidate. No universal name-construction language is set.
+
+Use the current explicit request, then the user’s configured local default, then the explicit brand brief. Decide only material ambiguity with the user. Response language, audience location and katakana checks do not themselves choose the construction language. English, Japanese or another language can be deliberate brand-specific choices. Keep cultural breadth and screening regardless of language.
 
 
 <a id="screening"></a>
@@ -103,6 +121,8 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 名前だけの印象と説明付きの印象を分ける。長い由来を付けてから「直感的に伝わる」と判断しない。知っている作者に分かることと、初見の対象者が受け取れることを区別する。
 
 ## 日本語と複数言語
+
+ここではブリーフで決めた構成言語の候補を評価する。対象市場やカタカナ表記から構成言語を変更したり、日本語の語根・語呂合わせ・由来を後付けしたりしない。
 
 - 主表記、かな読み、必要なローマ字表記を並べる。漢字の複数の読み、語の切れ目、長音・促音・拗音・濁音、カタカナ化による同音、略称を確認する。
 - ローマ字や英語表記を聞いて入力できるか、かなから表記を再現できるかを検討する。複数の自然な綴りがあるなら検索時の取りこぼしとして扱う。
@@ -134,14 +154,40 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 誰を対象に、何を提示し、何を観測し、どの結果で候補や説明を変えるかを事前に決める。人数や基準は意思決定の重さと資源に合わせる。AIの模擬回答を実在顧客の反応に数えない。人への連絡は別途その行為が許可されている場合のみ行う。
 
 
-<!-- END screening -->
+<a id="editorial-character"></a>
+
+# Cultural character and visible naming judgment
+
+Use this alongside the complete naming method when a brief asks for cultural, fashion, hospitality or editorial sophistication, or feedback says the names feel generic. It does not replace strategy, language policy, pronunciation or rights screening.
+
+## Research the naming encounter
+
+Inspect primary brand/editorial sources in the relevant cultural world. Record the name, its actual application, how it is spoken or explained where documented, the context it occupies, and what naming mechanism is observable. Distinguish observation from inferred audience appeal. Prestige is not proof of fit. A fashion art director's portfolio may inform visual treatment; it does not establish that they authored a name or endorsed a proposed one.
+
+Extract principles rather than borrow vocabulary: semantic distance from the category, cadence, spelling, ambiguity, cultural register, editorial viewpoint and the division of work between name and descriptor. Compare useful counterexamples. Keep reference names and the current case's words out of permanent defaults.
+
+## Diverge in meaning and character
+
+Develop genuinely different approaches warranted by the brief: a sharply edited existing word, an evocative metaphor, a phrase with a point of view, a culturally grounded term, or an economical coinage with a credible verbal logic. These are possibilities, not mandatory slots. Random English noun pairs, forced Japanese compounds and pseudo-European sophistication need the same justification as other names. Language follows the brand-specific choice and local policy, not the response language or a universal English prescription.
+
+For each serious direction, state the relation to the brand's eight elements, the cultural/editorial character, what the name intentionally leaves for a descriptor, and what could make it mannered or interchangeable. Do not make the functional proposition carry the entire brand name. A useful category description can remain secondary without becoming the brand.
+
+## Reject before decorating
+
+Compare the actual candidates first as plain words and spoken introductions, with equal explanation. Reject or revise a name that only works after a long invented origin story, becomes appealing only in an expensive-looking mockup, resembles a competitor too closely, promises unavailable capability, or has no distinctive relationship to this brand. Do not use a beautiful logo to compensate for a weak name.
+
+Keep a compact decision record: candidate/version; strength protected; exact weakness and use consequence; reference-supported principle and its limit; revised or replacement candidate; recheck. A list of famous names or favourable adjectives is not a critique. If every shortlisted name belongs to the same mechanism, return to divergence.
+
+Then show finalists in comparable real uses: the requested masthead, sign, cup, menu, profile or article title. Type scale and spacing must not make one candidate seem better merely by receiving more polish. Naming-only work can use modest deterministic specimens and remains naming work; an identity request loads the full identity skill. Preserve reading/katakana, heard-to-typed ambiguity, search confusion and language-specific risks. Distinguish desk judgment from actual reader/customer results.
+
+Deliver a concrete recommendation and viable alternatives with remaining conditions. Do not report handle/domain/trademark availability without the appropriate current checks. A design-test shortlist can remain explicitly unverified and must not be presented as ready to acquire or launch.
 
 
 <a id="sources"></a>
 
 # 出典と適用範囲
 
-版：1.0.0。確認日：2026-09-30。
+版：1.1.0-public-candidate。構成言語と評価言語を分離し、文化的な個性、実物比較、却下と改訂を追加。特定ユーザーの言語既定値は配布しない。
 
 ## 元の命名パッケージ
 
@@ -164,9 +210,6 @@ Mike Coulbourn の `claude-vibes` にある2つの文書を、作者名とMITラ
 [特許庁の商標検索案内](https://www.jpo.go.jp/support/startup/shohyo_search.html) を日本の予備調査の入口とする。名称の創作、データベースの検索結果、権利に関する最終判断は別の成果である。
 
 この資料は出典の記録。名前の優劣、売上効果、対象者の反応を実証した記録ではない。
-
-
-<!-- END sources -->
 
 
 <a id="license"></a>
@@ -192,6 +235,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-<!-- END license -->
