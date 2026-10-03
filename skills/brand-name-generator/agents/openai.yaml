@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Name Generator"
+  short_description: "Turn Brand Holotype strategy into evaluated name candidates"
+  default_prompt: "Use $brand-name-generator to develop and compare names from the supplied brand strategy and naming constraints, applying the local naming-language configuration unless this brief explicitly overrides it."
