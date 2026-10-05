@@ -14,7 +14,7 @@ AIにはこの開始ガイド、命名の依頼、戦略の本文、市場・言
 
 リンクを読めない環境では完全版をダウンロードし、ファイルとして添付できます。インストールは任意です。ZIPを使う場合は、展開した `brand-name-generator` フォルダを利用するAI環境のスキルディレクトリへ置き、全文の読み込みを確認してください。名称の生成・比較と、使用権の確認・登録・公開は別の行為です。
 
-版1.1.1-public-candidate。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
+版1.1.2-public-candidate。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
 
 ## Use the strategy skill
 
@@ -23,6 +23,18 @@ Open [Marketer — complete instructions](https://raw.githubusercontent.com/rpst
 Use the full-text link above for AI reading. The [GitHub file page](MARKETER.md) is also available for human browsing.
 
 No installation or named model is required. Execution depends on the assistant's available tools and its ability to read the required source text completely.
+
+## Choose the task and check dependencies
+
+| Requested task | Entry and required input |
+|---|---|
+| Generate, compare or revise names | [Complete naming method and references](BRAND_NAME_GENERATOR.md#method), plus the existing eight-element strategy and naming brief. Read screening and language policy before generation; use the editorial reference when its stated conditions apply. |
+| Build or revise strategy | Marketer's [complete source map](MARKETER.md#rpstr9-full-method) and [workflow](MARKETER.md#rpstr9-workflow), then the complete sources assigned to the requested capability. |
+| Develop identity, creative briefs, plans or measures | The same source map, [dependency protocol](MARKETER.md#rpstr9-protocol) and [input/output contracts](MARKETER.md#rpstr9-contracts). Reuse valid upstream work and follow the relevant branch. |
+
+The assistant must be able to retrieve the complete required text; a preview or contents list is not a substitute. Attach the downloaded document if link retrieval is unavailable. Current-name, handle, domain or preliminary trademark checks need browsing or the relevant search tool. Without that access, keep those checks visibly unperformed. Actual identity board images need an available image-generation tool; text briefs alone do not establish that images were produced. See the complete method for its fallback and review steps.
+
+These are instruction packages, with no required executable script, runtime library, named model or external agent. Local skill installation is optional. Registration, purchases, account changes and publication require their own user-authorized scope. After revising an output, repeat the affected checks; preserve valid inputs and unrelated work. Model review is separate from audience evidence and legal clearance.
 
 ## Concept Review
 

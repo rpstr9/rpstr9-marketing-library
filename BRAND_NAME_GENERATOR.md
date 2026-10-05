@@ -1,6 +1,17 @@
-# Brand Name Generator — 完全版 1.1.1-public-candidate
+# Brand Name Generator — 完全版 1.1.2-public-candidate
 
 実行手順、必須参照、出典と原版MITライセンスの全文。元の戦略と命名条件を維持し、文化的な個性を実際の使用形で比較します。名前だけの語感・品位を先に審査します。採用・公開・権利確認は別の判断です。
+
+## 内容と読込順
+
+- [実行手順と参照を読む条件](#method)
+- [構成言語・応答言語・評価言語](#language-policy)
+- [名前だけの審査、使用条件と調査](#screening)
+- [文化的な個性と実物比較](#editorial-character)
+- [出典と適用範囲](#sources)
+- [原版MITライセンス](#license)
+
+まず実行手順の全文を読み、そこに示す条件で必要な参照を全文取得する。目次や先頭のプレビューだけで実行したことにしない。
 
 
 <a id="method"></a>
@@ -9,7 +20,14 @@
 
 ブランド戦略を、比較して選べる名称へ翻訳する。対象は新規命名、改名、候補評価、既存案の絞り込み。戦略を作る依頼やロゴ制作とは区別し、依頼された範囲を完了する。ユーザーの指定言語で応答する。特定モデル、外部エージェント、専用サービスは必須ではない。
 
-最初に [screening.md](#screening) を読み、評価・調査・納品に適用する。手法の出典や改変の確認には [sources.md](#sources) を読む。本スキルの指示と必要な参照を全文取得できたか確認し、取得できない部分を記憶や要約で代用しない。
+本スキルの指示と次の必要な参照を全文取得できたか確認し、取得できない部分を記憶や要約で代用しない。
+
+| 読む時点・条件 | 参照と用途 |
+|---|---|
+| 最初に読む。評価・調査・納品で必須 | [screening.md](#screening)：名前だけの審査、言語・使用条件の確認、証拠の残し方 |
+| 候補生成前に必須 | [language-policy.md](#language-policy)：名称の構成言語、応答言語、評価言語の決定 |
+| 文化・ファッション・ホスピタリティ・編集媒体の洗練が必要、または凡庸とのフィードバックがある | [editorial-character.md](#editorial-character)：参照調査、却下と改訂、実際の使用形の比較 |
+| 手法の出典や改変を確認するとき | [sources.md](#sources)：原典、適応内容、ライセンスと適用範囲 |
 
 ## 戦略から受け取るもの
 
@@ -97,14 +115,20 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 
 フィードバックでは、嫌いな単語だけでなく、意味の方向、音、理解の負担、戦略の不一致のどこが問題かを整理して修正する。変わっていない入力と確認結果を再利用し、期限や対象が変わった可用性だけ再確認する。名称の変更が関係する資産へ影響を伝え、無関係な戦略やFlowを変更しない。
 
-最終確認：候補の素材は記録した構成言語と合うか。評価用の日本語を生成素材や創作語源にしていないか。8要素を勝手に変えていないか。候補は意味でも異なるか。表記と読みは対応するか。由来を創作事実にしていないか。未確認が残る場所は見えるか。検索なしの空き判定や商標保証がないか。具体的な推奨と次の行動まで届いているか。
+## 最終確認と改訂
+
+1. **入力と候補を照合する。** 素材は記録した構成言語と合うか。評価用の日本語を生成素材や創作語源にしていないか。8要素を勝手に変えていないか。候補は意味でも異なるか。表記と読みは対応するか。
+2. **名前だけで審査し、弱点を直す。** screening.mdの審査を、由来や使用形の説明による救済なしで行う。重大な欠陥やブリーフとの不一致があれば、その案を却下するか、意味の方向・音・構成を修正して1と2を再確認する。説明文だけの修正で合格にしない。有力案が残らなければ、不足する方向と条件を示して探索へ戻る。
+3. **根拠と使用条件を確認する。** 由来を創作事実にしていないか。検索対象・日時・範囲と未確認が見えるか。検索なしの空き判定や商標保証がないか。調査ツールが使えなければ、実行できた比較と未実施の調査を区別し、必要な確認を引き継ぐ。
+4. **選べる成果物を確認する。** 具体的な推奨、その理由、残る条件と次の行動まで届いているか。推奨、選定、権利確認、取得済みを区別する。
+5. **変更部分を再確認する。** 調査やフィードバックで案を変えたら、影響する1〜4を再実行してから届ける。変わっていない入力・有効な確認結果は再利用し、未解決の不足は明示する。無関係な戦略やFlowへ修正を広げない。
 
 
 <a id="language-policy"></a>
 
 # Naming-language configuration
 
-Edition: 1.1.1-public-candidate. No universal name-construction language is set.
+Edition: 1.1.2-public-candidate. No universal name-construction language is set.
 
 Use the current explicit request, then the user’s configured local default, then the explicit brand brief. Decide only material ambiguity with the user. Response language, audience location and katakana checks do not themselves choose the construction language. English, Japanese or another language can be deliberate brand-specific choices. Keep cultural breadth and screening regardless of language.
 
@@ -187,7 +211,7 @@ For each serious direction, state the relation to the brand's eight elements, th
 
 ## Reject before decorating
 
-Apply the name-only taste gate in [screening.md](#screening) before explaining or decorating candidates. Compare plain names, then spoken introductions, under equal conditions. For credible editorial briefs, remove forced mashups, puns and cutesy benefit labels when they undermine the required register; Japanese names and well-formed coinages remain valid. Reject or revise a name that depends on a backfilled origin story of any length, becomes appealing only in an expensive-looking mockup, resembles a competitor too closely, promises unavailable capability, or has no distinctive relationship to this brand. Short pronunciation or apparent availability cannot rescue poor taste. Do not use a beautiful logo to compensate for a weak name.
+Apply the name-only taste gate in [screening.md](screening.md) before explaining or decorating candidates. Compare plain names, then spoken introductions, under equal conditions. For credible editorial briefs, remove forced mashups, puns and cutesy benefit labels when they undermine the required register; Japanese names and well-formed coinages remain valid. Reject or revise a name that depends on a backfilled origin story of any length, becomes appealing only in an expensive-looking mockup, resembles a competitor too closely, promises unavailable capability, or has no distinctive relationship to this brand. Short pronunciation or apparent availability cannot rescue poor taste. Do not use a beautiful logo to compensate for a weak name.
 
 Keep a compact decision record: candidate/version; strength protected; exact weakness and use consequence; reference-supported principle and its limit; revised or replacement candidate; recheck. A list of famous names or favourable adjectives is not a critique. If every shortlisted name belongs to the same mechanism, return to divergence.
 
@@ -200,7 +224,7 @@ Deliver a concrete recommendation and viable alternatives with remaining conditi
 
 # 出典と適用範囲
 
-版：1.1.1-public-candidate。構成言語と評価言語の分離、文化的な個性、実物比較を維持し、名前だけの語感・品位の審査と、説明や可用性による救済を認めない却下条件を追加。特定ユーザーの言語既定値は配布しない。
+版：1.1.2-public-candidate。構成言語と評価言語の分離、文化的な個性、実物比較を維持し、名前だけの語感・品位の審査と、説明や可用性による救済を認めない却下条件を追加。参照の読込条件を入口にまとめ、最終確認を修正後の再確認まで含む順序付き手順にした。特定ユーザーの言語既定値は配布しない。
 
 ## 元の命名パッケージ
 
