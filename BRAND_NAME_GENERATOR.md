@@ -1,10 +1,9 @@
-# Brand Name Generator — 完全版 1.1.0-public-candidate
+# Brand Name Generator — 完全版 1.1.1-public-candidate
 
-実行手順、必須参照、出典と原版MITライセンスの全文。元の戦略と命名条件を維持し、文化的な個性を実際の使用形で比較します。採用・公開・権利確認は別の判断です。
+実行手順、必須参照、出典と原版MITライセンスの全文。元の戦略と命名条件を維持し、文化的な個性を実際の使用形で比較します。名前だけの語感・品位を先に審査します。採用・公開・権利確認は別の判断です。
 
 
 <a id="method"></a>
-
 
 # Brand Name Generator
 
@@ -68,7 +67,7 @@
 
 ## 比較し、使用条件を調べる
 
-必須条件への違反、混同の強い兆候、能力と矛盾する約束を先に分ける。創造性の点数で重大な欠陥を相殺しない。残った候補を同じ使用場面で比較し、screening.mdに従って次を確認する。
+必須条件への違反、混同の強い兆候、能力と矛盾する約束を先に分ける。創造性の点数で重大な欠陥を相殺しない。続いてscreening.mdの「名前だけの品位・語感の審査」を行い、ブリーフの信頼感や距離感に合わない案を却下・保留する。由来説明、短さ、読みやすさ、空きそうなIDでこの判断を相殺しない。残った候補を同じ使用場面で比較し、screening.mdに従って次を確認する。
 
 1. 戦略とのつながり、初見の意味、カテゴリーとの適切な距離。
 2. 思い出す手がかり、読み・聞き取り・入力の負担、他案との区別。
@@ -87,7 +86,7 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 成果物 `naming` に次を保存する。人が読める文書でよく、技術的なスキーマ入力を要求しない。
 
 - 対象・版・日付・使用言語、元の戦略本文または同梱された参照先と版、依頼範囲、ブリーフ、前提。
-- 候補比較表：正式な表示案、読み、意味の方向、戦略的理由、主な弱点、確認状況。
+- 候補比較表：正式な表示案、読み、意味の方向、名前だけでの語感・品位の判断と却下／保留理由、戦略的理由、主な弱点、確認状況。
 - 各有力案の実際の使用形：表示名、必要な別表記・読み、ハンドル案、ドメイン案。未調査の綴りは提案として示す。
 - 検索した対象、クエリ、情報源、日時、範囲、観測結果と未確認事項。省略した調査も明記。
 - 第一推奨と代替案、その理由、残る条件、選ばなかった方向の理由。推奨・ユーザー選択・権利確認・取得済みを区別。
@@ -105,7 +104,7 @@ SMILE / SCRATCHはAlexandra Watkinsによる発想・評価の視点として使
 
 # Naming-language configuration
 
-Edition: 1.1.0-public-candidate. No universal name-construction language is set.
+Edition: 1.1.1-public-candidate. No universal name-construction language is set.
 
 Use the current explicit request, then the user’s configured local default, then the explicit brand brief. Decide only material ambiguity with the user. Response language, audience location and katakana checks do not themselves choose the construction language. English, Japanese or another language can be deliberate brand-specific choices. Keep cultural breadth and screening regardless of language.
 
@@ -119,6 +118,20 @@ Use the current explicit request, then the user’s configured local default, th
 同じ候補を、実際に必要な場面の短い文や表示に置く。初めて聞く紹介、検索入力、プロフィール一覧、商品表記などから関連するものを選ぶ。仮の使用例は評価用と明記し、公開された事例に見せない。
 
 名前だけの印象と説明付きの印象を分ける。長い由来を付けてから「直感的に伝わる」と判断しない。知っている作者に分かることと、初見の対象者が受け取れることを区別する。
+
+## 名前だけの品位・語感の審査
+
+由来、推薦文、ロゴ、取得状況を見せる前に、候補の主表記と必要な読みだけを同じ条件で並べ、声に出す。ブリーフで求める人格、信頼感、読者との距離に照らして、最初の語感、受け取る印象、通過／却下／保留と具体的な理由を短く記録する。その後、同じ素の表記を媒体名や自然な紹介文に置いて判断を再確認する。名前だけですべての事業内容が分かる必要はないが、品位や語感の不一致を説明で隠さない。
+
+信頼できる報道・編集媒体を求めるブリーフでは、次のいずれかがその距離感を損なう案を推薦候補から外す。
+
+- 日本語の断片を無理に接合し、切れ目や駄洒落が先に聞こえる造語。語尾だけを変えた言葉遊びも含む。
+- 便益や行動を可愛く言い換えただけの説明名、馴れ馴れしい相づちや幼い響き。親しみやすさを理由に信用の不足を見逃さない。
+- 音の弱さや不自然な綴りを救うために、後から語源、頭字語、外国語の意味を組み立てる案。短い後付け説明でも救済しない。
+
+判定例（架空の診断用。候補集や永久の禁止語ではない）：堅実なニュース媒体に「トピだね」（トピック＋種）を当て、接合の面白さで売る案や、「しらべるん」の可愛さで調査力を表す案は、このブリーフでは却下する。一方、「定点」のような自然な日本語既存語や「Tavora」のような素直に発音できる造語は、言語や造語という理由だけで除外しない。通過には今回の戦略との適合が必要で、既存使用・権利・可用性は未確認。遊び心を明示した子ども向け媒体なら、可愛さを同じ理由で却下せず、そのブリーフで評価する。
+
+短さ、発音の容易さ、記憶しやすそうな印象、検索結果の少なさ、IDやドメインの空きは、語感・品位の不合格を埋め合わせない。説明を外すと判断が崩れる案は改訂する。良さを説明できず判断が割れる案は保留し、別の意味の方向も探す。日本語名、自然な複合語、よい造語、適切な遊び心は有効な選択肢として残す。これはブリーフに基づく作り手の審査であり、実測した読者の反応ではない。
 
 ## 日本語と複数言語
 
@@ -174,7 +187,7 @@ For each serious direction, state the relation to the brand's eight elements, th
 
 ## Reject before decorating
 
-Compare the actual candidates first as plain words and spoken introductions, with equal explanation. Reject or revise a name that only works after a long invented origin story, becomes appealing only in an expensive-looking mockup, resembles a competitor too closely, promises unavailable capability, or has no distinctive relationship to this brand. Do not use a beautiful logo to compensate for a weak name.
+Apply the name-only taste gate in [screening.md](#screening) before explaining or decorating candidates. Compare plain names, then spoken introductions, under equal conditions. For credible editorial briefs, remove forced mashups, puns and cutesy benefit labels when they undermine the required register; Japanese names and well-formed coinages remain valid. Reject or revise a name that depends on a backfilled origin story of any length, becomes appealing only in an expensive-looking mockup, resembles a competitor too closely, promises unavailable capability, or has no distinctive relationship to this brand. Short pronunciation or apparent availability cannot rescue poor taste. Do not use a beautiful logo to compensate for a weak name.
 
 Keep a compact decision record: candidate/version; strength protected; exact weakness and use consequence; reference-supported principle and its limit; revised or replacement candidate; recheck. A list of famous names or favourable adjectives is not a critique. If every shortlisted name belongs to the same mechanism, return to divergence.
 
@@ -187,7 +200,7 @@ Deliver a concrete recommendation and viable alternatives with remaining conditi
 
 # 出典と適用範囲
 
-版：1.1.0-public-candidate。構成言語と評価言語を分離し、文化的な個性、実物比較、却下と改訂を追加。特定ユーザーの言語既定値は配布しない。
+版：1.1.1-public-candidate。構成言語と評価言語の分離、文化的な個性、実物比較を維持し、名前だけの語感・品位の審査と、説明や可用性による救済を認めない却下条件を追加。特定ユーザーの言語既定値は配布しない。
 
 ## 元の命名パッケージ
 

@@ -4,7 +4,7 @@ A public library of reusable marketing instructions.
 
 ## Brand Name Generator / ブランド名を戦略からつくる
 
-ブランドホロタイプまたは同等の8要素戦略から、名称の方向、候補、読み、比較、推奨、未確認事項を作ります。表示名・アカウントID・ドメインを区別します。
+ブランドホロタイプまたは同等の8要素戦略から、名称の方向、候補、読み、比較、推奨、未確認事項を作ります。表示名・アカウントID・ドメインを区別します。候補は由来やロゴを見せる前に語感・品位を審査し、信頼感を損なう無理な語呂合わせや可愛すぎる説明名は、短さや取得しやすさで救済しません。日本語名や自然な造語も、各ブリーフに照らして比較します。
 
 - [Brand Name Generator — 指示と必須参照の全文](https://raw.githubusercontent.com/rpstr9/rpstr9-marketing-library/main/BRAND_NAME_GENERATOR.md)
 - [GitHubで全文を読む](BRAND_NAME_GENERATOR.md)
@@ -14,7 +14,7 @@ AIにはこの開始ガイド、命名の依頼、戦略の本文、市場・言
 
 リンクを読めない環境では完全版をダウンロードし、ファイルとして添付できます。インストールは任意です。ZIPを使う場合は、展開した `brand-name-generator` フォルダを利用するAI環境のスキルディレクトリへ置き、全文の読み込みを確認してください。名称の生成・比較と、使用権の確認・登録・公開は別の行為です。
 
-版1.1.0-public-candidate。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
+版1.1.1-public-candidate。Mike CoulbournのMITライセンスの命名パッケージを適応。出典とライセンスは完全版・ZIPに収録。無料で利用できます。実行はAI環境の読込・調査能力に依存し、特定モデルは指定しません。
 
 ## Use the strategy skill
 
