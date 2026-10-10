@@ -2,6 +2,18 @@
 
 A public library of reusable marketing instructions.
 
+## Strategic Decision Check / 手段を選ぶ前に、目的から確かめる
+
+判断や計画の相談に重ねて、得たい結果、必要な手段、実行する時期、既存資源、代替経路を確認します。最安・最小の案を常に勧めるものではありません。決定済みの条件を尊重し、必要な不足だけを尋ねます。
+
+- [Strategic Decision Check — 指示の全文](https://raw.githubusercontent.com/rpstr9/rpstr9-marketing-library/main/STRATEGIC_DECISION_CHECK.md)
+- [GitHubで全文を読む](STRATEGIC_DECISION_CHECK.md)
+- [インストール用スキルフォルダを取得](strategic-decision-check.zip)
+
+全文を相談中のチャットに添付し、「このスキルで、いまの相談を確認してください」と頼めます。既存の文脈を使うので、長い入力フォームは不要です。リンクを読めない環境では完全版をダウンロードして添付してください。全文の読み込みを確認します。
+
+版1.0.0-candidate。無料で利用できます。インストールは任意です。ZIPを展開した `strategic-decision-check` フォルダを対応環境のスキルディレクトリに置き、明示的に `$strategic-decision-check` を指定できます。自動適用は環境に依存し、一度添付しただけで恒久的な自動適用が設定されるものではありません。特定モデルや実行スクリプトは不要です。比較に必要な事実は別途調べ、調査できない条件は未確認として扱います。購入・契約・公開などの権限は与えません。
+
 ## Brand Name Generator / ブランド名を戦略からつくる
 
 ブランドホロタイプまたは同等の8要素戦略から、名称の方向、候補、読み、比較、推奨、未確認事項を作ります。表示名・アカウントID・ドメインを区別します。候補は由来やロゴを見せる前に語感・品位を審査し、信頼感を損なう無理な語呂合わせや可愛すぎる説明名は、短さや取得しやすさで救済しません。日本語名や自然な造語も、各ブリーフに照らして比較します。
@@ -28,6 +40,7 @@ No installation or named model is required. Execution depends on the assistant's
 
 | Requested task | Entry and required input |
 |---|---|
+| Choose a course of action from the desired outcome | [Complete Strategic Decision Check](STRATEGIC_DECISION_CHECK.md), with the current conversation or decision context. No strategy/naming/identity workflow is required. |
 | Generate, compare or revise names | [Complete naming method and references](BRAND_NAME_GENERATOR.md#method), plus the existing eight-element strategy and naming brief. Read screening and language policy before generation; use the editorial reference when its stated conditions apply. |
 | Build or revise strategy | Marketer's [complete source map](MARKETER.md#rpstr9-full-method) and [workflow](MARKETER.md#rpstr9-workflow), then the complete sources assigned to the requested capability. |
 | Develop identity, creative briefs, plans or measures | The same source map, [dependency protocol](MARKETER.md#rpstr9-protocol) and [input/output contracts](MARKETER.md#rpstr9-contracts). Reuse valid upstream work and follow the relevant branch. |
